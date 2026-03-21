@@ -38,13 +38,28 @@ I build scalable web and mobile applications, from REST APIs to real-time system
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [whatsapp-clone](https://github.com/bruno-mesquita/whatsapp-clone) | Full-stack WhatsApp clone with real-time messaging | TypeScript, React Native |
-| [felipe-app-delivery](https://github.com/bruno-mesquita/felipe-app-delivery) | Complete delivery platform (3 repos: backend, customer app, courier app) | TypeScript, React Native |
-| [GoBarber-backend](https://github.com/bruno-mesquita/GoBarber-backend) | Barbershop scheduling app — Rocketseat Bootcamp | Node.js, TypeScript |
-| [kafka-example](https://github.com/bruno-mesquita/kafka-example) | Message queue demo with Apache Kafka | JavaScript, Node.js |
-| [waac-triangulos](https://github.com/bruno-mesquita/waac-triangulos) | Real company project — fullstack web app | JavaScript |
+### [Tem Quem Faça](https://github.com/bruno-mesquita/tem-quem-faca)
+Marketplace de prestação de serviços com apps mobile para cliente e prestador, painel administrativo web e backend em monorepo. Pagamentos via escrow, chat por proposta e avaliações pós-conclusão.
+
+`Turborepo` `Bun` `React Native + Expo` `Next.js` `Elysia` `tRPC` `PostgreSQL` `Drizzle ORM` `better-auth`
+
+---
+
+### Peruibe Fácil
+Plataforma digital completa para a cidade de Peruíbe — delivery, cardápio via QR code, notificações via WhatsApp, integração com PIX/Stripe, chat em tempo real e agentes de IA para atendimento automatizado.
+
+`Fastify` `MongoDB` `Socket.io` `React Native` `Next.js` `OpenAI` `Python` `Stripe` `WhatsApp API`
+
+Repos: [api](https://github.com/bruno-mesquita/api-odonto-digital) · [app cliente](https://github.com/bruno-mesquita/app-peruibe-facil-delivery-client) · [painel](https://github.com/bruno-mesquita/painel-peruibe-facil) · [agentes IA](https://github.com/bruno-mesquita/agents-peruibe-facil)
+
+---
+
+### Odonto Digital
+SaaS para clínicas odontológicas com site institucional, painel administrativo e API — controle de pacientes, planos e financeiro.
+
+`Next.js` `Fastify` `TypeScript` `MongoDB` `Stripe`
+
+Repos: [site](https://github.com/bruno-mesquita/site-odonto-digital) · [painel](https://github.com/bruno-mesquita/painel-odonto-digital) · [api](https://github.com/bruno-mesquita/api-odonto-digital)
 
 ---
 
